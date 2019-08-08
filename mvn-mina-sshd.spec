@@ -4,7 +4,7 @@
 #
 Name     : mvn-mina-sshd
 Version  : 1.6.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/apache/mina-sshd/archive/sshd-1.6.0.tar.gz
 Source0  : https://github.com/apache/mina-sshd/archive/sshd-1.6.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/sshd/sshd-core/1.6.0/sshd-core-1.6.0.jar
